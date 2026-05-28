@@ -24,9 +24,7 @@ const blogMarkdown =
 const logoutBtn =
     document.getElementById("logoutBtn");
 
-/* =========================
-   AUTH
-========================= */
+/* AUTH */
 
 function checkAuth() {
 
@@ -85,32 +83,48 @@ logoutBtn.addEventListener("click", () => {
     showLogin();
 });
 
-/* =========================
-   MARKDOWN CONTENT
-========================= */
+/* CONTENT */
 
 const markdown = `
 
+# Welcome & Terms of Use
+
+Welcome to our private community platform. This website is intended exclusively for approved members with authorized access credentials.
+
+By logging in and using this platform, you agree to keep all shared information, market analysis, forecasts, estimations, and discussions strictly confidential and not distribute them outside the community.
+
+Unauthorized access, sharing of credentials, copying of content, or misuse of the platform may result in immediate termination of access and possible legal action.
+
+---
+
 # SpaceX IPO Could Become the Biggest Market Event of the Decade
 
-**Our internal estimation suggests that the upcoming SpaceX IPO on June 12 could generate more than $125 billion in market capitalization growth within the first week after launch.**
+<div class="article-image">
+
+<img
+src="https://images.unsplash.com/photo-1516849841032-87cbac4d88f7?q=80&w=1600&auto=format&fit=crop"
+/>
+
+</div>
+
+The upcoming SpaceX IPO on June 12 could generate more than $125 billion in market capitalization growth within the first week after launch.
 
 <div class="stats-grid">
 
-  <div class="stat-card">
-    <span>IPO Valuation</span>
-    <h3>$300B</h3>
-  </div>
+<div class="stat-card">
+<span>IPO Valuation</span>
+<h3>$300B</h3>
+</div>
 
-  <div class="stat-card">
-    <span>Projected Growth</span>
-    <h3>200%+</h3>
-  </div>
+<div class="stat-card">
+<span>Capital Inflow</span>
+<h3>$125B+</h3>
+</div>
 
-  <div class="stat-card">
-    <span>Capital Inflow</span>
-    <h3>$125B+</h3>
-  </div>
+<div class="stat-card">
+<span>Projected Growth</span>
+<h3>200%+</h3>
+</div>
 
 </div>
 
@@ -128,17 +142,33 @@ src="https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=1400&au
 
 ### Key Factors
 
-- **Global Brand Dominance** — SpaceX is one of the strongest technology brands worldwide.
+- Global Brand Dominance — SpaceX has become one of the most recognized technology brands worldwide.
 
-- **Starlink Revenue Explosion** — Millions of active users globally continue driving recurring revenue.
+- Starlink Revenue Explosion — Millions of active users globally continue driving recurring revenue.
 
-- **Near-Monopoly Position** — SpaceX dominates commercial rocket launches.
+- Near-Monopoly Position — SpaceX dominates commercial rocket launches with dramatic cost advantages.
 
-- **AI & Defense Synergy** — Multiple trillion-dollar sectors intersect around SpaceX infrastructure.
+- Elon Musk Effect — Companies associated with Elon Musk attract enormous retail and institutional attention.
+
+- AI & Defense Synergy — SpaceX is positioned at the center of several trillion-dollar industries simultaneously.
 
 ---
 
-## Historic Investor Demand
+## Interesting Numbers
+
+- Estimated private valuation before IPO: $250–300 billion
+
+- Forecasted first-week capital inflow: $125+ billion
+
+- Falcon 9 launch success rate: one of the highest in aerospace history
+
+- Starlink satellites already in orbit: thousands deployed globally
+
+- Potential long-term TAM: multi-trillion-dollar scale
+
+---
+
+## Our Position
 
 <div class="article-image">
 
@@ -148,19 +178,43 @@ src="https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?q=80&w=1400&au
 
 </div>
 
-Public market access to SpaceX could trigger one of the strongest buying waves in modern IPO history.
+Market demand will significantly exceed available public supply during the first trading week, creating conditions for aggressive upward price movement fueled by institutional accumulation, retail speculation, and global media attention.
 
 ---
 
 ## Estimated Price Growth
 
+Internal projection: SpaceX becomes one of the most explosive IPO launches ever seen on public markets.
+
 ### Forecast
 
-- IPO valuation: **$250–300 billion**
+- IPO valuation: $250–300 billion
 
-- Short-term valuation: **$600+ billion**
+- Short-term valuation: $600+ billion
 
-- Possible stock price growth: **200%+**
+- Capital inflow: $125–300+ billion
+
+- Possible stock price growth: 200%+
+
+---
+
+## Why?
+
+### Historic Investor Demand
+
+SpaceX has accumulated years of anticipation from both retail and institutional investors.
+
+### Starlink Alone Could Justify Massive Valuation Expansion
+
+Many analysts believe Starlink’s future global internet infrastructure business could eventually become larger than traditional telecom companies combined.
+
+### Dominance in Space Industry
+
+SpaceX currently leads the global launch market by a substantial margin.
+
+### Elon Musk Market Impact
+
+Companies associated with Elon Musk historically generate extreme market momentum and unprecedented trading volume.
 
 ---
 
@@ -182,23 +236,77 @@ SpaceX is positioned at the intersection of:
 
 - Defense technology
 
+- Global internet services
+
 - Aerospace logistics
+
+---
+
+## Key Numbers
+
+- Potential first-week trading volume: record-breaking levels
+
+- Starlink users worldwide: millions and rapidly growing
+
+- Rocket launch costs reduced dramatically through reusability
+
+- Possible long-term valuation scenario: $1 trillion+ over time
+
+---
+
+## Who Will Have Access to SpaceX Shares?
+
+Initial access to SpaceX IPO shares could be heavily concentrated among major institutional investors and selected brokerage networks.
+
+### Expected Priority Access Groups
+
+- Large investment funds and hedge funds
+
+- Private banking clients
+
+- Venture capital firms
+
+- High-net-worth investors
+
+- Selected brokerage clients with IPO access privileges
+
+---
+
+## Brokerages Likely to Offer Limited IPO Allocation
+
+Retail access available through:
+
+- Charles Schwab
+
+- Fidelity Investments
+
+- Morgan Stanley
+
+- Robinhood
+
+- E*TRADE
+
+- Interactive Brokers
+
+- JPMorgan Chase Private Bank
 
 ---
 
 ## Estimated Supply vs Demand
 
-- Estimated public float: **5–10%**
+- Potential IPO valuation: $250–300 billion
 
-- Institutional demand: **$500+ billion**
+- Estimated publicly available float at launch: 5–10%
 
-- Oversubscription level: **3x–7x**
+- Estimated first-week institutional demand: $500+ billion
+
+- Estimated oversubscription level: 3x–7x higher than available supply
+
+Such conditions historically create extreme volatility and aggressive upward price pressure during high-profile IPO launches.
 
 `;
 
-/* =========================
-   RENDER
-========================= */
+/* RENDER */
 
 function renderMarkdown() {
 
@@ -206,8 +314,6 @@ function renderMarkdown() {
         marked.parse(markdown);
 }
 
-/* =========================
-   INIT
-========================= */
+/* INIT */
 
 checkAuth();
